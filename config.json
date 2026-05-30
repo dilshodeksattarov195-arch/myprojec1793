@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatoreerify",
+        "uuid": 17123150,
+        "checksum": "lilas"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
